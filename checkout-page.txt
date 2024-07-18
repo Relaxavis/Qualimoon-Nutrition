@@ -1,0 +1,15 @@
+<h1>CHECKOUT</h1>
+
+<p>
+
+Send Bitcoin Payment Funds to address:
+
+Send Monero Payment Funds to address:
+
+Send zCash Payment Funds to address:
+
+Send Litecoin Payment Funds to address:
+
+Send Ethereum Payment Funds to address:
+
+</p>

@@ -1,0 +1,17 @@
+<h1> SHIPPING COSTS </h1>
+
+<h5>include the surcharge in with payment sent</h2>
+
+<p>
+
+Do you select,
+
+1.USA Priority: $10.00USD per order
+
+2.USA Express: $40.00USD per order
+
+3.GLOBAL Priority: $40.00USD per order
+
+4.GLOBAL Express: $80.00USD per order
+
+</p>
